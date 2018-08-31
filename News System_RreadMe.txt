@@ -38,14 +38,3 @@ Used Gradle mechanism for resolving dependencies
 Application validates information that can be sent to the database (See classes Comment and News in domain package)
 
 
-using localhost:8080/api/news/getNewsyou can get all news.
-
-
-
-
-I didn't manage to do everything mostly becouse of lack of time. I have a lot of everyday duties. I also had to configure my environment first and also read some specs.
-I didn't manage to connect the application to the database created in AWS.
-I have not added Error handling
-I wanted to creat client using AngulatJS but it also would take more time.
-I didnt manage to create test units
-
